@@ -1,10 +1,5 @@
-# Creating a markdown file with the provided content
-
-markdown_content = """
-# Exercise Notebook
-
 ## Exercise 2 - Title of the Notebook
-# Data Science Tools and Exercises
+Data Science Tools and Exercises
 
 ## Exercise 3 - Introduction
 This notebook is designed to provide an overview of common tools, languages, and libraries used in Data Science. It also includes some basic arithmetic operations and unit conversions to illustrate coding in Python.
@@ -44,6 +39,7 @@ Arithmetic expressions are the foundation of data manipulation and analysis in a
 # This is a simple arithmetic expression to multiply and add numbers.
 result = (3 * 4) + 5
 result
+```
 
 ## Exercise 9 - Code to Convert Minutes to Hours
 # This will convert 200 minutes to hours by dividing by 60.
