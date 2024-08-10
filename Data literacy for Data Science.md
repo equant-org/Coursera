@@ -42,7 +42,7 @@ result
 ```
 
 ## Exercise 9 - Code to Convert Minutes to Hours
-# This will convert 200 minutes to hours by dividing by 60.
+This will convert 200 minutes to hours by dividing by 60.
 minutes = 200
 hours = minutes / 60
 hours
@@ -50,11 +50,11 @@ hours
 ## Exercise 10 - Objectives
 In this notebook, we will:
 
-List popular languages for Data Science
-List common Data Science libraries
-Display tools used in Data Science with a table
-Perform arithmetic operations in Python
-Convert units from minutes to hours
+- List popular languages for Data Science
+- List common Data Science libraries
+- Display tools used in Data Science with a table
+- Perform arithmetic operations in Python
+- Convert units from minutes to hours
 
 ## Exercise 11 - Author's Name
 Author: [Fabien Laurent Patrice Egot]
